@@ -10,7 +10,8 @@ html, body {
 }
 
 body {
-    font-family: 'Plus Jakarta Sans';
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 600;
     background-color: #FCF5FF;
     display: flex;
     justify-content: center;
@@ -95,7 +96,7 @@ nav a:hover {
 .text-block h1 {
     font-size: 48px;
     line-height: 60px;
-    font-weight: 600px;
+    font-weight: 600;
     letter-spacing: 0;
     text-align: left;
     max-width: 600px;
