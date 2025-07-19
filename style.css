@@ -160,6 +160,23 @@ nav a:hover {
     transition-delay: 0.8s;
 }
 
+/* Rounded corners for favicon */
+.rounded-favicon {
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+/* Additional rounded corner options */
+.rounded-favicon-soft {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.rounded-favicon-medium {
+    border-radius: 25px;
+    overflow: hidden;
+}
+
 @media (max-width: 1200px) {
     .content-section {
         flex-direction: column;
