@@ -48,11 +48,6 @@ header {
     margin-left: 100px;
 }
 
-.logo img {
-    border-radius: 12px;
-    object-fit: cover;
-}
-
 nav ul {
     list-style: none;
     display: flex;
